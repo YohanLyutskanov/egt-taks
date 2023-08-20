@@ -1,0 +1,16 @@
+.tasks-button {
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    outline: none;
+    white-space: nowrap;
+    font-weight: bold;
+    background: #007BFF;
+    color: white;
+}
+ .tasks-button:disabled {
+     background-color: rgba(0, 123, 255, 0.5);
+ }

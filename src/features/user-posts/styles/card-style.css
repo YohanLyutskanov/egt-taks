@@ -1,0 +1,16 @@
+.ant-card-actions {
+    background: #f2f2f2 !important;
+}
+
+.ant-card-head {
+    background: #f2f2f2 !important;
+}
+
+.card-wrapper {
+    margin-bottom: 20px;
+    background: #f9f9f9;
+}
+
+.body-paragraph {
+    min-height: 100px
+}
